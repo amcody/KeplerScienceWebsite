@@ -3,7 +3,7 @@ K2 approved targets & programs
 :save_as: k2-approved-programs.html
 
 .. contents::
- 
+
 This page details the targets and programs that have been executed by K2
 as part of the `Guest Observer program <k2-proposing-targets.html>`_.
 
@@ -15,10 +15,316 @@ of a Campaign.
 You can click on the title of each program to read a summary
 of the research objectives and view a list of the observed targets.
 
-After data has been released, the 
-`data release notes <data-products.html#k2-data-release-notes>`_ 
+After data has been released, the
+`data release notes <data-products.html#k2-data-release-notes>`_
 should be consulted for more comprehensive notes for each Campaign.
 
+
+-----------
+
+All K2 Campaigns
+----------------
+.. raw:: html
+
+    <p>
+        K2 Campaigns 0 - 19 contain <b>588,991 pixel masks</b> in approved K2 programs.  The target list below was produced from concatenating all campaign-level target lists into a single csv file.  The file contains one additional column indicating the campaign.  This master file will facilitate cross-matching K2 data with other catalogs, and other data mining efforts.
+    </p>
+
+  <ul class="list-group">
+    <li class="list-group-item">
+      <i class="fa fa-calendar fa-margin"></i>
+      2014 - 2018
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-download fa-margin"></i>
+      <a href="data/GO_all_campaigns_to_date.csv">Target list (csv)</a>
+    </li>
+  </ul>
+
+
+-----------
+
+Campaign 19
+-----------
+.. raw:: html
+
+  <p>
+    The Campaign 19 target list includes
+    <b>33,863 standard long cadence</b>
+    and <b>216 standard short cadence</b> targets
+    located towards the constellation of Aquarius.
+    The Campaign partially overlaps with Campaigns 3 and 12,
+    while also surveying ~15 deg<sup>2</sup> of previously unstudied sky.
+  </p>
+
+  <p>
+    The target list includes the nearby planet systems <b>TRAPPIST-1</b> and <b>GJ 9827</b>.
+    These systems host some of the most amenable small planets for atmospheric characterization
+    known to date, i.e. TRAPPIST-1 f, GJ 9827 b, and GJ 9827 d.
+    The Hubble Space Telescope is scheduled to observe GJ 9827 b on September 16th and 21st, simultaneously with Kepler, obtaining a transmission spectrum to characterize water abundance in the atmosphere. Kepler will provide a unique photometric context to the Hubble observations for the purpose of constraining astrophysical noise such as star spots and provide precise transit modeling when HST is in Earth occultation.
+  </p>
+
+  <p>
+    Other notable targets include:
+    <ul>
+      <li>
+        <b>Dozens of confirmed and candidate exoplanets</b> previously discovered
+        during K2 Campaigns 3 and 12, including K2-138, the resonant system of
+        five planets <a href="https://www.nasa.gov/feature/jpl/multi-planet-system-found-through-crowdsourcing">discovered by citizen scientists</a>,
+        and HD 215152, a system <a href="http://adsabs.harvard.edu/abs/2018A&A...614A.133D">known to contain four short-period RV planets</a>.
+      </li>
+      <li>
+        A large sample of <b>low-mass flare stars</b> and <b>white dwarfs</b>
+        in short cadence.
+      </li>
+      <li>
+        <b>11,501 galaxies</b> are being surveyed for supernovae and other transients.
+      </li>
+      <li>
+        <b>30 Solar System objects</b> are being monitored, including <b>planet Neptune</b> and its moon Triton in short cadence, and comet 2P/Encke in long cadence.
+      </li>
+    </ul>
+  </p>
+
+  <ul class="list-group">
+    <li class="list-group-item">
+      <i class="fa fa-calendar fa-margin"></i>
+      TBC
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-pencil-square-o fa-margin"></i>
+      Data release notes (awaiting data release)
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-download fa-margin"></i>
+      <a href="data/campaigns/c19/K2Campaign19targets.csv">Target list (csv)</a>
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-external-link fa-margin"></i>
+      Target pixel files (awaiting data release)
+    </li>
+  </ul>
+
+.. include:: approved-programs/c19.html
+
+-----------
+
+Campaign 18
+-----------
+.. raw:: html
+
+  <p>
+    The Campaign 18 target list includes
+    <b>20,419 standard long cadence</b>
+    and <b>235 standard short cadence</b> targets
+    located towards the constellation of Cancer.
+  </p>
+
+  <p>
+     The field is almost identical to that observed during Campaign 5
+     and overlaps substantially with Campaign 16.
+     The third visit to this key part of the sky that contains the M44 and M67 star clusters will enable users to study benchmark targets with a 3-year baseline and 8-month duty cycle, enabling original Kepler-like science at a Galactic sightline that is located 130 degrees away from the original Kepler field in Cygnus.
+  </p>
+
+  <p>
+    Notable targets include:
+    <ul>
+      <li>
+        <b>Two open star clusters</b>:
+        <ul>
+          <li>
+            <b>M44</b> is one of the most nearby open star clusters
+            and is known to contain at least six confirmed planets
+            (K2-95b, K2-100b, K2-101b, K2-102b, K2-103b, K2-104b).
+            Its members are being observed using standard masks.
+          </li>
+          <li>
+            <b>M67</b> is the benchmark star cluster
+            with solar-like age and metallicity.
+            Hundreds of stars in the cluster core are being observed
+            using 441 unique 20x20-pixel long cadence aperture masks
+            which create a contiguous 420x420 pixel region.
+            In addition, hundreds of members in the outskirts
+            are being observed using standard masks,
+            and more than 40 targets are being observed
+            using short cadence masks.
+          </li>
+        </ul>
+      <li>
+        <b>42 confirmed exoplanets from Campaign 5</b>:
+        K2-34b, 95b, 97b, 98b, 100b, 101b, 102b, 103b, 104b, 105b, 108b,
+        114b, 115b, 117bc, 118b, 119b, 120b, 121b, 122b, 123b, 124b, 146b,
+        180b, 181b, 182b, 183bcd, 184b, 185b, 187bcde, 188bc,
+        and HIP 41378 bcdef.
+        Most noteworthy, the HIP 41378 system is a bright F-type dwarf (V=9)
+        shown by Campaign 5 to host at least five planets.
+        The majority of these confirmed planet systems are being observed
+        in short cadence.
+      </li>
+      <li>
+        <b>Dozens of unconfirmed planet candidates</b> from Campaign 5
+        are being re-observed, the majority in long cadence.
+        In addition, the Campaign 16 planet candidate around the bright F dwarf
+        HD 73344 (V=7) is being observed in short cadence.
+      </li>
+      <li>
+        <b>60 low-mass flare stars</b> and <b>59 variable white dwarfs</b>
+        are being observed in short cadence.
+      </li>
+      <li>
+        <b>13 very bright stars</b> are being observed
+        using custom circular masks, including
+        <a href="https://en.wikipedia.org/wiki/Zeta_Cancri">ζ Cancri</a>
+        and 25 Cancri in short cadence,
+        and  η, γ, X, 21, 29, 49, 50, and 60 Cancri in long cadence.
+      </li>
+      <li>
+        <b>OJ 287</b> is a well-studied bright galaxy (V=15) which is
+        thought to show lightcurve variations due to a <b>binary supermassive black hole</b> at its center.  It is being observed in short cadence.
+      </li>
+      <li>
+        <b>37 Solar System objects</b> including
+        22 comets and trojan Asteroids,
+        9 faint Trans-Neptunian Objects, and the
+        <b><a href="https://en.wikipedia.org/wiki/99942_Apophis">
+        potentially hazardous asteroid 99942 Apophis</a></b>
+        are being observed in long cadence.
+      </li>
+    </ul>
+  </p>
+
+
+  <ul class="list-group">
+    <li class="list-group-item">
+      <i class="fa fa-calendar fa-margin"></i>
+      May 12, 2018 - Jul 2, 2018
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-pencil-square-o fa-margin"></i>
+      Data release notes (coming soon)
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-download fa-margin"></i>
+      <a href="data/campaigns/c18/K2Campaign18targets.csv">Target list (csv)</a>
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-external-link fa-margin"></i>
+      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/c18">Target pixel files (MAST)</a>
+    </li>
+  </ul>
+
+.. include:: approved-programs/c18.html
+
+-----------
+
+Campaign 17
+-----------
+.. raw:: html
+
+    <p>
+        The Campaign 17 target list includes
+        <b>34,398 standard long cadence</b>
+        and <b>179 standard short cadence</b> targets
+        located towards the constellation of Virgo.
+        Like Campaigns 9 and 16, this is a forward-facing field which enables
+        simultaneous observations to be carried out from the ground.
+    </p>
+
+    <p>
+        Campaign 17 provides a substantial overlap with Campaign 6,
+        offering a longer baseline for stellar activity, asteroseismology,
+        and AGN studies,
+        as well as enabling dozens of K2 planet candidates to be revisited.
+        The field also provides access to 20 deg<sup>2</sup>
+        of previously unexplored sky.
+    </p>
+
+    <p>
+        Notable targets include:
+    <ul>
+        <li>
+            <b>Spica</b>: the brightest star system
+            in the constellation of Virgo (V=1),
+            known to be an ellipsoidal variable.
+            The object is being observed using a 40px-diameter circular mask
+            (ID 200213067) designed to capture the PSF core and wings
+            while excluding the long saturation columns
+            which will bleed off silicon.
+        </li>
+        <li>
+            <b>3,000+ candidate M dwarfs</b> and
+            <b>10,000+ candidate FGK dwarfs</b> for planet searches and other investigations.
+        </li>
+        <li>
+            <b>14,000+ galaxies</b> for the <a href="supernova-experiment/">K2 Supernova Cosmology Experiment</a>.
+        </li>
+        <li>
+            <b>24 Solar System objects</b>
+            including comets 183P/Korlevic-Juric and 235P/LINEAR,
+            main-belt asteroids (223) Rosa and (422) Berolina,
+            9 Trans-Neptunian Objects,
+            and 11 Jupiter Trojan/Hilda Objects.
+        </li>
+        <!--
+        <li>
+            <b>Six additional very bright stars</b> are being observed:
+            68 Vir (K5III),
+            76 Vir (G8III),
+            80 Vir (K0III),
+            82 Vir (M1+III),
+            HD 118054 (A0V),
+            and HD 116831 (A8V).
+            All objects are observed using both a circular and standard mask.
+        </li>
+        -->
+        <li>
+            Targets being observed in short cadence include:
+            <ul>
+            <li>
+                <b>Six confirmed planet systems</b> from Campaign 6 (K2-41 = WASP-157, K2-99, K2-110, K2-126, K2-127, K2-128).
+            </li>
+            <li>
+                <b>Dozens of planet candidates</b> from Campaign 6.
+            </li>
+            <li>
+                <b>67 variable white dwarfs</b>,
+                including the bright white dwarf WD 1327-083 (V=12).
+            </li>
+            <li>
+                <b>47 cool flare stars</b>,
+                including the bright K-type flare star EQ Virginis (V=9).
+            </li>
+            <li>
+                <b>17 bright solar-type stars</b>
+                for asteroseismology studies.
+            </li>
+            </ul>
+        </li>
+    </ul>
+    </p>
+
+  <ul class="list-group">
+    <li class="list-group-item">
+      <i class="fa fa-calendar fa-margin"></i>
+      Mar 1, 2018 - May 8, 2018
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-pencil-square-o fa-margin"></i>
+      Data release notes (awaiting data release)
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-download fa-margin"></i>
+      <a href="data/campaigns/c17/K2Campaign17targets.csv">Target list (csv)</a>
+    </li>
+    <li class="list-group-item">
+      <i class="fa fa-external-link fa-margin"></i>
+      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/c17">Target pixel files (MAST)</a>
+    </li>
+  </ul>
+
+.. include:: approved-programs/c17.html
+
+-----------
 
 Campaign 16
 -----------
@@ -30,13 +336,13 @@ Campaign 16
         The target list includes 29,888 standard long cadence
         and 129 standard short cadence targets
         located towards the constellation of Cancer.
-        The list includes <b>20,647 stars alongside 
+        The list includes <b>20,647 stars alongside
         9,241 galaxies for the <a href="supernova-experiment">supernova experiment</a></b>.
     </p>
     <p>
         Uniquely, the spacecraft will be pointing along the forward-facing direction
         of the spacecraft's velocity vector during this Campaign,
-        which <b>allows the field to be accessed from Earth</b>. 
+        which <b>allows the field to be accessed from Earth</b>.
         This enables K2's single-bandpass photometry
         to be complemented with simultaneous observations from the ground,
         an opportunity that is being utilised by many of the selected programs,
@@ -80,7 +386,7 @@ Campaign 16
                 <b>19 Solar System objects</b> including asteroid Hekate,
                 comets 288P and 2009 YD7, 4 Trojan asteroids,
                 and 12 Trans-Neptunian Objects.
-            </li>   
+            </li>
         </ul>
     </p>
     <p>
@@ -113,7 +419,7 @@ Campaign 16
     </li>
     <li class="list-group-item">
       <i class="fa fa-pencil-square-o fa-margin"></i>
-      Data release notes (awaiting data release)
+      <a href="k2-data-release-notes.html#k2-campaign-16">Data release notes</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
@@ -121,13 +427,14 @@ Campaign 16
     </li>
     <li class="list-group-item">
       <i class="fa fa-external-link fa-margin"></i>
-      Target pixel files (awaiting data release)
+      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/c16">Target pixel files (MAST)</a>
     </li>
   </ul>
 
 .. include:: approved-programs/c16.html
 
 
+-----------
 
 Campaign 15
 -----------
@@ -135,7 +442,7 @@ Campaign 15
 
     <p>
         The Campaign 15 target list includes <b>23,279 standard long cadence</b>
-        and <b>119 standard short cadence</b> targets
+        and <b>118 standard short cadence</b> targets
         located towards the constellations of Scorpius.
     </p>
 
@@ -203,7 +510,7 @@ Campaign 15
     </li>
     <li class="list-group-item">
       <i class="fa fa-pencil-square-o fa-margin"></i>
-      Data release notes (awaiting data release)
+      <a href="k2-data-release-notes.html#k2-campaign-15">Data release notes</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
@@ -211,13 +518,14 @@ Campaign 15
     </li>
     <li class="list-group-item">
       <i class="fa fa-external-link fa-margin"></i>
-      Target pixel files (awaiting data release)
+      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/c15">Target pixel files (MAST)</a>
     </li>
   </ul>
 
 .. include:: approved-programs/c15.html
 
 
+-----------
 
 Campaign 14
 -----------
@@ -252,7 +560,7 @@ Campaign 14
       </li>
       <li>
         <b>6 comets</b>: 17P, 202P, 331P, 50P, P2010 TO20, and P2016 A3;
-      </li> 
+      </li>
       <li>
         <b>1 main-belt asteroid</b>: 373 Melusina.
       </li>
@@ -266,7 +574,7 @@ Campaign 14
     </li>
     <li class="list-group-item">
       <i class="fa fa-pencil-square-o fa-margin"></i>
-      Data release notes (awaiting data release)
+      <a href="k2-data-release-notes.html#k2-campaign-14">Data release notes</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
@@ -274,12 +582,14 @@ Campaign 14
     </li>
     <li class="list-group-item">
       <i class="fa fa-external-link fa-margin"></i>
-      Target pixel files (awaiting data release)
+      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/c14">Target pixel files (MAST)</a>
     </li>
   </ul>
 
 .. include:: approved-programs/c14.html
 
+
+-----------
 
 Campaign 13
 -----------
@@ -359,6 +669,7 @@ Campaign 13
 .. include:: approved-programs/c13.html
 
 
+-----------
 
 Campaign 12
 -----------
@@ -374,7 +685,7 @@ Campaign 12
     The short cadence list includes <b>TRAPPIST-1</b>,
     an ultracool dwarf star known to host
     several Earth-sized transiting planets.
-    A generous 11-by-11 pixel short cadence mask 
+    A generous 11-by-11 pixel short cadence mask
     will be used to capture this target (mask ID 200164267).
     </p>
 
@@ -382,7 +693,7 @@ Campaign 12
     The long cadence list includes <b>2,576 galaxies</b> to enable
     supernovae and AGN studies.
     It also includes <b>8 bright stars</b> (Kp ~5)
-    for which we collect only the central region of pixels 
+    for which we collect only the central region of pixels
     using a circular aperture mask, excluding the long saturation bleed.
     </p>
 
@@ -420,6 +731,8 @@ Campaign 12
 .. include:: approved-programs/c12.html
 
 
+-----------
+
 Campaign 11
 -----------
 .. raw:: html
@@ -442,7 +755,7 @@ Campaign 11
 
     <p>
     Finally, we will also observe <b>55 Trojan asteroids</b>, <b>7 Trans-Neptunian Objects</b>, and Saturn's moons <b>Titan and Enceladus</b>.
-    The trajectories of these moving bodies have been tiled using 1xn or nx1 pixel strips.
+    The trajectories of these moving bodies have been tiled using 1xn or nx1 pixel strips (EPID IDs 200147375-200147463 for Titan and 200142604-200142897 for Enceladus).
     </p>
 
     <p>
@@ -474,6 +787,8 @@ Campaign 11
 .. include:: approved-programs/c11.html
 
 
+-----------
+
 Campaign 10
 -----------
 .. raw:: html
@@ -502,6 +817,7 @@ Campaign 10
 
 .. include:: approved-programs/c10.html
 
+-----------
 
 Campaign 9b
 -----------
@@ -510,20 +826,20 @@ Campaign 9b
   <p>
   The majority of the Campaign 9 pixel budget was dedicated to
   <a href="k2-c9.html">a study of gravitational microlensing events</a>
-  toward the Galactic bulge. The aim of this program was to simultaneously observe gravitational microlensing events with K2 and from Earth in order to see a parallax effect in the shape and time of lensing events. 
+  toward the Galactic bulge. The aim of this program was to simultaneously observe gravitational microlensing events with K2 and from Earth in order to see a parallax effect in the shape and time of lensing events.
   A near-contiguous superstamp of 3.7 deg<sup>2</sup> was observed in long cadence for this purpose, covering large swaths of CCD channels 30, 31, 32, 49, and 52 (program ID GO9001).
   Additional custom masks were allocated to capture isolated PRF reference
   stars (GO9002), dark clouds for noise model inference (GO9003),
-  and small masks to cover ongoing microlensing events outside the main superstamp (GO9004). 
+  and small masks to cover ongoing microlensing events outside the main superstamp (GO9004).
   </p>
 
   <p>
   The experiment included a three-day, mid-campaign break for data downlinking, splitting the campaign into two halves: C9a and C9b.
   </p>
-  
+
   <p>
   The remaining part of the pixel budget was made available to the community via the DDT program.  The DDT target list included 1,480 long cadence
-  and 12 short cadence masks. Custom targets included 
+  and 12 short cadence masks. Custom targets included
   Kuiper Belt Object Quaoar and a superstamp to cover
   the core of the Lagoon star-forming region (M8).
   </p>
@@ -550,6 +866,8 @@ Campaign 9b
 .. include:: approved-programs/c9b.html
 
 
+-----------
+
 Campaign 9a
 -----------
 .. raw:: html
@@ -557,11 +875,11 @@ Campaign 9a
   <p>
   The majority of the Campaign 9 pixel budget was dedicated to
   <a href="k2-c9.html">a study of gravitational microlensing events</a>
-  toward the Galactic bulge. The aim of this program was to simultaneously observe gravitational microlensing events with K2 and from Earth in order to see a parallax effect in the shape and time of lensing events. 
+  toward the Galactic bulge. The aim of this program was to simultaneously observe gravitational microlensing events with K2 and from Earth in order to see a parallax effect in the shape and time of lensing events.
   A near-contiguous superstamp of 3.7 deg<sup>2</sup> was observed in long cadence for this purpose, covering large swaths of CCD channels 30, 31, 32, 49, and 52 (program ID GO9001).
   Additional custom masks were allocated to capture isolated PRF reference
   stars (GO9002), dark clouds for noise model inference (GO9003),
-  and small masks to cover ongoing microlensing events outside the main superstamp (GO9004). 
+  and small masks to cover ongoing microlensing events outside the main superstamp (GO9004).
   </p>
 
   <p>
@@ -570,7 +888,7 @@ Campaign 9a
 
   <p>
   The remaining part of the pixel budget was made available to the community via the DDT program.  The DDT target list included 1,480 long cadence
-  and 12 short cadence masks. Custom targets included 
+  and 12 short cadence masks. Custom targets included
   Kuiper Belt Object Quaoar and a superstamp to cover
   the core of the Lagoon star-forming region (M8).
   </p>
@@ -596,9 +914,10 @@ Campaign 9a
 
 .. include:: approved-programs/c9a.html
 
+----------
 
 Campaign 8
----------------------
+----------
 .. raw:: html
 
   <p>
@@ -623,16 +942,19 @@ Campaign 8
     </li>
     <li class="list-group-item">
       <i class="fa fa-external-link fa-margin"></i>
-      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/c8/">Target pixel files (MAST)</a>   
+      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/c8/">Target pixel files (MAST)</a>
     </li>
   </ul>
 
 .. include:: approved-programs/c8.html
 
+
+----------
+
 Campaign 7
----------------------
+----------
 .. raw:: html
-  
+
   <p>
   In Campaign 7 there was a significant drop in the number of targets observed relative to previous campaigns. This drop was because the number of targets we can observe is a function of our on-board compression efficiency. The extremely dense nature of the Campaign 7 field forced us to assume a poorer compression estimate than we used for earlier campaigns. This target list consists of 13,469 standard long cadence and 72 standard short cadence targets. We tiled a region around the open cluster Ruprecht 147 using 60 individual pixel masks. In addition, we included large pixel masks over 3 Trojan/Hilda Asteroids and the (dwarf) planet Pluto. Bodies within our own Solar System move relative to the celestial sphere and are covered by long streaks of pixels. We tiled just a subset of the pixels that make up the path the Trojans/Hildas move along. These observations are in long cadence. Finally, we also observed 10 very bright stars by targeting just the central region of pixels around these targets but excluding the bleed columns.
   </p>
@@ -655,16 +977,19 @@ Campaign 7
     </li>
     <li class="list-group-item">
       <i class="fa fa-external-link fa-margin"></i>
-      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/c7/">Target pixel files (MAST)</a>   
+      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/c7/">Target pixel files (MAST)</a>
     </li>
   </ul>
 
 .. include:: approved-programs/c7.html
 
+
+----------
+
 Campaign 6
----------------------
+----------
 .. raw:: html
-  
+
   <p>
   The Campaign 6 target list consists of 28,289 standard long cadence
   and 84 standard short cadence targets. In addition we have included
@@ -673,7 +998,7 @@ Campaign 6
   by long streaks of pixels. We tiled just a subset of the pixels that
   make up the path the Trojans move along. The Trojans were observed in long cadence.
   </p>
-  
+
   <ul class="list-group">
     <li class="list-group-item">
       <i class="fa fa-calendar fa-margin"></i>
@@ -693,18 +1018,21 @@ Campaign 6
     </li>
     <li class="list-group-item">
       <i class="fa fa-external-link fa-margin"></i>
-      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/c6/">Target pixel files (MAST)</a>   
+      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/c6/">Target pixel files (MAST)</a>
     </li>
   </ul>
 
 .. include:: approved-programs/c6.html
 
+
+----------
+
 Campaign 5
----------------------
+----------
 .. raw:: html
- 
+
   <p>
-    The Campaign 5 target list consists of 25,850 standard long cadence and 204 standard short cadence targets. 
+    The Campaign 5 target list consists of 25,850 standard long cadence and 204 standard short cadence targets.
     We also observed Trans-Neptunian Object 2001 YH40 and the open cluster M67.
     The cluster was tiled with 72 individual apertures to create a contiguous 400x400 pixel region over two channels.
   </p>
@@ -727,16 +1055,19 @@ Campaign 5
     </li>
     <li class="list-group-item">
       <i class="fa fa-external-link fa-margin"></i>
-      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/c5/">Target pixel files (MAST)</a>   
+      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/c5/">Target pixel files (MAST)</a>
     </li>
   </ul>
 
 .. include:: approved-programs/c5.html
 
+
+----------
+
 Campaign 4
----------------------
+----------
 .. raw:: html
-  
+
   <p>
     The Campaign 4 target list consists of 15,847 standard long cadence and 122 standard short cadence targets. In addition we have included large pixel masks over dwarf planet (250112) 2002 KY14. Bodies within our own Solar System move relative to the celestial sphere and are covered by long streaks of pixels. We tiled the entire extent of (250112) 2002 KY14 in long cadence.
   </p>
@@ -764,14 +1095,17 @@ Campaign 4
     </li>
     <li class="list-group-item">
       <i class="fa fa-external-link fa-margin"></i>
-      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/c4/">Target pixel files (MAST)</a>   
+      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/c4/">Target pixel files (MAST)</a>
     </li>
   </ul>
 
 .. include:: approved-programs/c4.html
 
+
+----------
+
 Campaign 3
----------------------
+----------
 .. raw:: html
 
   <p>
@@ -799,14 +1133,17 @@ Campaign 3
     </li>
     <li class="list-group-item">
       <i class="fa fa-external-link fa-margin"></i>
-      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/c3/">Target pixel files (MAST)</a>   
+      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/c3/">Target pixel files (MAST)</a>
     </li>
   </ul>
 
 .. include:: approved-programs/c3.html
 
+
+----------
+
 Campaign 2
----------------------
+----------
 .. raw:: html
 
   <p>
@@ -826,7 +1163,7 @@ Campaign 2
     </li>
     <li class="list-group-item">
       <i class="fa fa-cog fa-margin"></i>
-      <a href="/k2-pipeline-release-notes.html#data-release-4">Pipeline: 9.2</a>
+      <a href="/k2-pipeline-release-notes.html#data-release-21">Pipeline: 9.3</a>
     </li>
     <li class="list-group-item">
       <i class="fa fa-download fa-margin"></i>
@@ -834,20 +1171,22 @@ Campaign 2
     </li>
     <li class="list-group-item">
       <i class="fa fa-external-link fa-margin"></i>
-      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/c2/">Target pixel files (MAST)</a>   
+      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/c2/">Target pixel files (MAST)</a>
     </li>
   </ul>
 
 .. include:: approved-programs/c2.html
 
 
+----------
+
 Campaign 1
----------------------
+----------
 .. raw:: html
 
   <p>
     The Campaign 1 target list includes the trans-Neptunian object
-    2002 GV31.  A custom aperture was implemented for this moving target.  
+    2002 GV31.  A custom aperture was implemented for this moving target.
   </p>
   <ul class="list-group">
     <li class="list-group-item">
@@ -868,14 +1207,17 @@ Campaign 1
     </li>
     <li class="list-group-item">
       <i class="fa fa-external-link fa-margin"></i>
-      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/c1/">Target pixel files (MAST)</a>   
+      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/c1/">Target pixel files (MAST)</a>
     </li>
   </ul>
 
 .. include:: approved-programs/c1.html
 
+
+----------
+
 Campaign 0
----------------------
+----------
 .. raw:: html
 
   <p>
@@ -904,12 +1246,14 @@ Campaign 0
     </li>
     <li class="list-group-item">
       <i class="fa fa-external-link fa-margin"></i>
-      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/c0/">Target pixel files (MAST)</a>   
+      <a href="https://archive.stsci.edu/pub/k2/target_pixel_files/c0/">Target pixel files (MAST)</a>
     </li>
   </ul>
 
 .. include:: approved-programs/c0.html
 
+
+------------------------
 
 Concept Engineering Test
 ------------------------

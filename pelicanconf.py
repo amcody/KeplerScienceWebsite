@@ -58,6 +58,9 @@ if pelican.__version__ >= '3.7.0':
     MARKDOWN = {
         'extension_configs': {
             'markdown.extensions.toc': {},
+            'markdown.extensions.codehilite': {'css_class': 'highlight'},
+            'markdown.extensions.extra': {},
+            'markdown.extensions.meta': {},
         },
     }
 else:
@@ -94,7 +97,6 @@ MENUITEMS = (
             ('Targets &amp; programs', 'k2-approved-programs.html'),
             ('Data release notes', 'k2-data-release-notes.html'),
             ('Proposal preparation', 'k2-proposing-targets.html'),
-            ('Discretionary time', 'k2-ddt.html'),
             ('C9 Microlensing experiment', 'k2-c9.html'),
             ('C16 Supernova experiment', 'supernova-experiment'),
             )
@@ -111,33 +113,22 @@ MENUITEMS = (
 # Defines the "key information" box on the front page
 KEY_INFORMATION = (
             ('K2: Campaign fields', 'k2-fields.html'),
-            ('K2: Proposing targets', 'k2-proposing-targets.html'),
             ('K2: Observed programs', 'k2-approved-programs.html'),
             ('Kepler/K2: Data products', 'data-products.html'),
             )
 
 # Defines the "important dates" box on the front page
 IMPORTANT_DATES = (
-            ('<b>19 Jan 2018</b>',
-             'K2 Campaign 18 DDT proposals due',
-             'k2-ddt.html'),
-            ('<b>19 Apr 2018</b>',
-             'GO Cycle 6 Phase-2 deadline:<br/>funding proposals due for Campaigns 17-19',
-             'k2-proposing-targets.html'),
          )
-
 
 # Defines the "meetings" box on the front page
 MEETINGS = (
-            ('<b>8–12 Jan 2018</b><br>'
-             'Kepler/K2 booth and events at AAS 231',
-             '/keplerk2-at-the-aas-231-january-2018-washington-dc.html'),
-            ('<b>9 Jan 2018</b><br>'
-             'K2 & TESS Splinter Meeting at AAS 231',
-             '/k2-tess-splinter-meeting-at-aas231-on-jan-9th-2018.html'),
-            ('<b>16–18 Jan 2018</b><br>'
-             'Workshop: Dwarf Stars and Clusters with K2',
-             '/cluster-workshop')
+            ('<b>11-14 Feb 2019</b><br>'
+             'TESS Data Workshop (Baltimore)',
+             'http://www.stsci.edu/institute/conference/tess'),
+            ('<b>4-8 Mar 2019</b><br>'
+             'Kepler & K2 Sci Con V (Glendale)',
+             'scicon-2019/index.html')
             )
 
 # Defines the "related websites" listing in the footer of all pages

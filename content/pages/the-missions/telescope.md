@@ -41,7 +41,7 @@ An image of the field of view observed in the Kepler mission is shown below.
 
 The K2 mission observes a different field every ~80 days.  For
 comparison to the prime Kepler mission field, the field of view of K2 Campaign 10 is shown below
-(note the three dead modules as of August 2016).
+(note the three dead modules as of July 2018).
 
 <br/>
 
@@ -60,12 +60,20 @@ bandpass. Each science module is an array of 2200x2048
 pixels. These 21 modules each have 4 output channels, for a total of
 84 channels and 94.6 million active pixels that view the sky, with
 additional masked real pixels and virtual pixels for collection of
-collateral data.  As of August 2016, three of the modules are no longer in
-working order.
+collateral data.  As of July 2018, three of the modules are no longer in
+working order (shown as grayed out in the figure below) &mdash; module 3 failed during
+Quarter 4 of the prime Kepler mission, module 7 failed between the Kepler and K2 missions,
+and module 4 failed during K2 Campaign 10.
 
 <br/>
 
 <img class="img-responsive" style="max-width:67%;" src="images/kepler_CCDarray.jpg">
+
+<br/>
+
+<!--- <img class="img-responsive" style="max-width:50%;" src="images/Kepler-Chan-Mod.jpg"> --->
+<!--- <img class="img-responsive" style="max-width:67%;" src="images/kepler_focal_plane_layout_channels.png"> --->
+<img class="img-responsive" style="max-width:67%;" src="images/kepler_focal_plane_layout_channels_color.png">
 
 <br/>
 
@@ -83,7 +91,7 @@ response curve in [hi-res](data/kepler_response_hires1.txt) and
 for download. The shape of the bandpass, shown below, was chosen to contain most
 of the optical spectrum. This response curve was
 derived during pre-flight testing and
-represents the laboratory calibration of the Kepler photometer. 
+represents the laboratory calibration of the Kepler photometer.
 
 <br/>
 
@@ -131,7 +139,7 @@ The design requirements for Kepler emphasize photometric stability
 and minimizing noise sources. Users should recognize that
 the optimum focal plane geometry for flux collection will not in
 principle provide the most compact point spread function, as is
-usually desired for imaging experiments. 
+usually desired for imaging experiments.
 
 The Kepler point spread function varies considerably across the focal
 plane due primarily to the Schmidt optics, which provide a large FOV
@@ -194,7 +202,7 @@ increases to ~11% at the edge of the FOV at 6.94 degrees off-axis. The
 area of sky which is vignetted < 11% is 151.2 square degrees, and the
 sky area imaged onto active pixels with < 11% vignetting is 101 square
 degrees since there are gaps between modules, a gap between the two
-CCDs on each module, and inactive areas on each CCD. 
+CCDs on each module, and inactive areas on each CCD.
 
 ### Backgrounds
 
@@ -219,16 +227,16 @@ ecliptic plane.
 * Diffuse scattered starlight, produced by dust in the Galaxy. In the
   fixed field of view for the
   Kepler mission, the Galactic component shows a spatial gradient,
-  increasing at lower Galactic latitudes. 
+  increasing at lower Galactic latitudes.
 * Unresolved starlight. Given the 4x4 arcsec dimensions of the
   pixels, some light in the aperture arises from faint field stars. As
   with the diffuse Galactic emission, the contribution from unresolved
-  starlight increases with decreasing Galactic latitude. 
+  starlight increases with decreasing Galactic latitude.
 * Cosmic ray impacts which corrupt individual pixels. The pipeline
    flags and removes cosmic ray events from the pixel counts,
   within the PA pipeline module. Each cosmic ray event is
   replaced with a temporally local average of the pixel's time series
-  without the cosmic ray pixel events. 
+  without the cosmic ray pixel events.
 * Surrounding sources, i.e. the residual wings of the PSFs produced by nearby
   stars which may overlap the PSF of the target. A correction for contaminating flux in the source aperture
   produced by surrounding sources is applied within the PDC pipeline module - a single valued subtraction, termed the crowding metric. In
@@ -246,7 +254,7 @@ black level), which is removed in the CAL pipeline module, scattered light, unex
 issues discovered during pre-flight characterization of the detectors,
 and some features seen during early flight operations,
 e.g., "Argabrightening", an anomalous full-field illumination. Spatially varying backgrounds produced by the detector
-electronics are fully described in the [Kepler Instrument Handbook](data/documentation/KSCI-19033-001.pdf). 
+electronics are fully described in the [Kepler Instrument Handbook](data/documentation/KSCI-19033-001.pdf).
 
 **Measurement and removal**
 
@@ -345,7 +353,7 @@ increase linearly until the well depth is reached. Beyond that level,
 charge will bleed into adjacent pixels in the column containing that
 source. However, even when the central pixel is saturated, the target
 aperture can extend along the bleed column, preserving most or all of
-the signal from the source. 
+the signal from the source.
 
 ### Flux calibration
 
@@ -368,7 +376,7 @@ The Kepler Science Team conducted an extensive observing program
   the filter response functions with the models. Using correlations
   between these values, Kepler magnitudes are estimated from the
   observed SDSS magnitudes using empirical formulae.
-  
+
 An approximate
   estimate of Kp can be derived using the following expression, which
   is based on the empirical relations used by the Kepler Stellar
@@ -378,7 +386,7 @@ SDSS g,r using the transformation derived by Smith et al. (2002 ApJ 123,
 statements in line 3 and 4 below can be used.
 
 (1) g   =   0.54 B   +   0.46 V   −   0.07 <br/>
-(2) r   =   −0.44 B   +   1.44 V   +   0.12 <br/> 
+(2) r   =   −0.44 B   +   1.44 V   +   0.12 <br/>
 (3) if   ( g − r )   ≤   0.8    then    Kp   =   0.2 g   +   0.8 r <br/>
 (4) if   ( g − r )   >   0.8     then    Kp   =   0.1 g   +   0.9 r <br/>
 
@@ -409,7 +417,7 @@ than M0, the estimated Kp may be too faint.
       <td>-0.33</td>
       <td>+0.16</td>
       </tr>
-	  
+
      <tr>
       <td>B0</td>
       <td>-0.28</td>
@@ -457,13 +465,13 @@ than M0, the estimated Kp may be too faint.
       <td>+0.67</td>
       <td>-0.08</td>
       </tr>
- 
+
     <tr>
       <td>K0</td>
       <td>+0.85</td>
       <td>-0.13</td>
       </tr>
-	  
+
 	     <tr>
       <td>K5</td>
       <td>+1.15</td>
@@ -501,11 +509,11 @@ catalog (or catalogs) contain data for that source.  Those catalogs are listed h
 of their positional accuracy.  Additional information can be found in
 the documentation for the KIC and the EPIC.
 
-  1. Kepler Stellar Classification Program; 50 milliarcseconds, data obtained closer to the Kepler epoch, minimizing proper motion offsets 
-  2. Hipparcos; 10 milliarcseconds 
-  3. Tycho-2; for V brighter than 8.0; 20 milliarcseconds 
-  4. UCAC2; 40 milliarcseconds 
-  5. 2MASS; 70 milliarcseconds 
+  1. Kepler Stellar Classification Program; 50 milliarcseconds, data obtained closer to the Kepler epoch, minimizing proper motion offsets
+  2. Hipparcos; 10 milliarcseconds
+  3. Tycho-2; for V brighter than 8.0; 20 milliarcseconds
+  4. UCAC2; 40 milliarcseconds
+  5. 2MASS; 70 milliarcseconds
   6. USNO-B1.0; 200 milliarcseconds
 
 **Observed astrometry**

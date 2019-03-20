@@ -6,20 +6,37 @@ Save_as: conferences.html
 
 
 <table class="table table-striped table-hover" style="max-width:55em;">
-	
   <tr>
-    <td style="width: 9em;">Jan 16-18, 2018</td>
-    <td style="width: 25em;"><a href='cluster-workshop'>Dwarf Stars and Clusters with K2: a Workshop</a></td>
+    <td style="width: 9em;">Mar 4-8, 2019</td>
+    <td style="width: 25em;"><a href=scicon-2019/index.html>Kepler &amp; K2 SciCon V</a></td>
     <td><a
-    href='cluster-workshop'>website</a>, <a href="https://twitter.com/search?q=%23K2Workshop">#K2Clusters tweets</a></td>
+    href=scicon-2019/index.html>website</a>, <a href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon tweets</a></td>
   </tr>
-	
 </table>
 
 
 ## Past meetings
 
 <table class="table table-striped table-hover" style="max-width:55em;">
+  <tr>
+    <td style="width: 9em;">Jan 6-10, 2019</td>
+    <td style="width: 25em;"><a href="two-kepler-special-sessions-at-the-winter-aas.html">Kepler & K2 Special Sessions at AAS233 in Seattle</a></td>
+    <td><a href="two-kepler-special-sessions-at-the-winter-aas.html">schedule</a></td>
+  </tr>
+
+  <tr>
+    <td style="width: 9em;">July 16-18, 2018</td>
+    <td style="width: 25em;"><a href='extragalactic2018'>K2 Extragalactic Data Analysis Meeting 2018</a></td>
+    <td><a
+    href='extragalactic2018'>website</a>, <a href="https://twitter.com/search?q=%23K2SN">#K2SN tweets</a></td>
+  </tr>
+
+  <tr>
+    <td style="width: 9em;">Jan 2018</td>
+    <td style="width: 25em;"><a href='cluster-workshop'>Dwarf Stars and Clusters with K2: a Workshop</a></td>
+    <td><a
+    href='cluster-workshop'>website</a>, <a href="https://twitter.com/search?q=%23K2Workshop">#K2Clusters tweets</a></td>
+  </tr>
 
   <tr>
     <td style="width: 9em;">Jun 2017</td>
@@ -95,7 +112,7 @@ Save_as: conferences.html
     <td>Kepler Science Conference I</td>
     <td>
       <a
-    href="http://kepler.nasa.gov/Science/ForScientists/keplerconference/2011sessions/">agenda,
+    href="https://web.archive.org/web/20170321013528/http://kepler.nasa.gov/Science/ForScientists/keplerconference/2011sessions/">agenda,
     slides &amp; video</a>, <a href="https://twitter.com/search?q=%23KeplerSciCon">#KeplerSciCon tweets</a>
     </td>
   </tr>

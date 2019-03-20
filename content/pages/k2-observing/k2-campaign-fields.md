@@ -9,7 +9,7 @@ This page details the previous, current, and future K2 Campaign fields.
 
 ## Overview
 
-<a href="images/k2/footprint-all-campaigns.png"><img src="images/k2/footprint-all-campaigns.png" class="img-responsive" alt="K2 campaign fields on the sky"></a>
+<a href="images/k2/footprint-all-campaigns.png"><img src="images/k2/footprint-all-campaigns.png?nocache=1" class="img-responsive" alt="K2 campaign fields on the sky"></a>
 
 <div class="panel panel-primary">
   <div class="panel-heading">
@@ -275,7 +275,7 @@ This page details the previous, current, and future K2 Campaign fields.
       <td class="text-center">
         <a href="k2-data-release-notes.html#k2-campaign-13"><i class="fa fa-check"></i></a>
       </td>
-      <td>Hyades, Taurus</td>
+      <td>Hyades, Taurus-Auriga</td>
     </tr>
     <tr>
       <td><a href="#c14">14</a></td> 
@@ -288,7 +288,7 @@ This page details the previous, current, and future K2 Campaign fields.
         <a href="k2-approved-programs.html#campaign-14"><i class="fa fa-check"></i></a>
       </td>
       <td class="text-center">
-        
+        <a href="k2-data-release-notes.html#k2-campaign-14"><i class="fa fa-check"></i></a>
       </td>
       <td>North Galactic Cap, Wolf 359, WASP-104</td>
     </tr>
@@ -296,56 +296,56 @@ This page details the previous, current, and future K2 Campaign fields.
       <td><a href="#c15">15</a></td>
       <td>2017&nbsp;Aug&nbsp;23</td>
       <td>2017&nbsp;Nov&nbsp;20</td>
-      <td>2018&nbsp;Jan&#8209;Apr</td>
+      <td>2018&nbsp;Mar&nbsp;14</td>
       <td>15:34:28</td>
       <td>-20:04:44</td>
       <td class="text-center">
         <a href="k2-approved-programs.html#campaign-15"><i class="fa fa-check"></i></a>
       </td>
       <td class="text-center">
-        
+        <a href="k2-data-release-notes.html#k2-campaign-15"><i class="fa fa-check"></i></a>
       </td>
       <td>Upper Sco, GW Lib, HP Lib</td>
     </tr>
     <tr>
       <td><a href='#c16'>16</a><sup>†</sup></td>
-      <td>2017&nbsp;Dec&nbsp;7</td>
+      <td>2017&nbsp;Dec&nbsp;07</td>
       <td>2018&nbsp;Feb&nbsp;25</td>
-      <td>2018&nbsp;Apr&#8209;Jun</td>
+      <td>2018&nbsp;May&nbsp;30</td>
       <td>08:54:50</td>
       <td>+18:31:31</td>
       <td class="text-center">
         <a href="k2-approved-programs.html#campaign-16"><i class="fa fa-check"></i></a>
       </td>
       <td class="text-center">
-
+        <a href="k2-data-release-notes.html#k2-campaign-16"><i class="fa fa-check"></i></a>
       </td>
       <td>M44 (Beehive), M67, Earth.</td>
     </tr>
     <tr>
       <td><a href='#c17'>17</a><sup>†</sup></td>
-      <td>2018&nbsp;Mar&nbsp;1</td>
-      <td>2018&nbsp;May&nbsp;8</td>
-      <td>2018&nbsp;Aug&#8209;Oct</td>
+      <td>2018&nbsp;Mar&nbsp;01</td>
+      <td>2018&nbsp;May&nbsp;08</td>
+      <td>2018&nbsp;Aug&nbsp;16</td>
       <td>13:30:12</td>
       <td>-07:43:16</td>
       <td class="text-center">
-
+        <a href="k2-approved-programs.html#campaign-17"><i class="fa fa-check"></i></a>
       </td>
       <td class="text-center">
-
+        <a href="k2-data-release-notes.html#k2-campaign-17"><i class="fa fa-check"></i></a>
       </td>
       <td>Galaxies.</td>
     </tr>
     <tr>
       <td><a href='#c18'>18</a></td>
       <td>2018&nbsp;May&nbsp;12</td>
-      <td>2018&nbsp;Aug&nbsp;2</td>
-      <td>2018&nbsp;Nov&#8209;Jan</td>
+      <td>2018&nbsp;Jul&nbsp;02</td>
+      <td>2018&nbsp;Oct&nbsp;24</td>
       <td>08:40:39</td>
       <td>+16:49:40</td>
       <td class="text-center">
-
+        <a href="k2-approved-programs.html#campaign-18"><i class="fa fa-check"></i></a>
       </td>
       <td class="text-center">
 
@@ -354,18 +354,18 @@ This page details the previous, current, and future K2 Campaign fields.
     </tr>
     <tr>
       <td><a href='#c19'>19</a><sup>†</sup></td>
-      <td>2018&nbsp;Aug&nbsp;6</td>
-      <td>2018&nbsp;Oct&nbsp;10</td>
-      <td>2019&nbsp;Jan&#8209;Mar</td>
+      <td>2018&nbsp;Aug&nbsp;29</td>
+      <td>2018&nbsp;Sep&nbsp;26</td>
+      <td>2019&nbsp;Feb&#8209;May</td>
       <td>23:09:02</td>
       <td>-04:12:10</td>
       <td class="text-center">
-
+        <a href="k2-approved-programs.html#campaign-19"><i class="fa fa-check"></i></a>
       </td>
       <td class="text-center">
 
       </td>
-      <td>Trappist-1, Neptune.</td>
+      <td>Trappist-1, GJ 9827, Neptune.</td>
     </tr>
   </tdata>
 </table>
@@ -396,46 +396,55 @@ You can learn more about the installation and usage of these tools [on the softw
 
 <div class="row">
   <div class="col-lg-6">
-    <a href="images/k2/k2-c0-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c0-field.png" id="c0"></a>
+    <a href="images/k2/kepler-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/kepler-field.png" id="c0"></a>
   </div>
   <div class="col-lg-6">
-    <a href="images/k2/k2-c1-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c1-field.png" id="c1"></a>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-lg-6">
-    <a href="images/k2/k2-c2-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c2-field.png" id="c2"></a>
-  </div>
-  <div class="col-lg-6">
-    <a href="images/k2/k2-c3-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c3-field.png" id="c3"></a>
+    <a href="images/k2/k2-c1002-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c1002-field.png" id="c1"></a>
   </div>
 </div>
 
 <div class="row">
   <div class="col-lg-6">
-    <a href="images/k2/k2-c4-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c4-field.png" id="c4"></a>
+    <a href="images/k2/k2-c00-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c00-field.png" id="c0"></a>
   </div>
   <div class="col-lg-6">
-    <a href="images/k2/k2-c5-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c5-field.png" id="c5"></a>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-lg-6">
-    <a href="images/k2/k2-c6-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c6-field.png" id="c6"></a>
-  </div>
-  <div class="col-lg-6">
-    <a href="images/k2/k2-c7-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c7-field.png" id="c7"></a>
+    <a href="images/k2/k2-c01-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c01-field.png" id="c1"></a>
   </div>
 </div>
 
 <div class="row">
   <div class="col-lg-6">
-    <a href="images/k2/k2-c8-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c8-field.png" id="c8"></a>
+    <a href="images/k2/k2-c02-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c02-field.png" id="c2"></a>
   </div>
   <div class="col-lg-6">
-    <a href="images/k2/k2-c9-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c9-field.png" id="c9"></a>
+    <a href="images/k2/k2-c03-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c03-field.png" id="c3"></a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-lg-6">
+    <a href="images/k2/k2-c04-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c04-field.png" id="c4"></a>
+  </div>
+  <div class="col-lg-6">
+    <a href="images/k2/k2-c05-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c05-field.png" id="c5"></a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-lg-6">
+    <a href="images/k2/k2-c06-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c06-field.png" id="c6"></a>
+  </div>
+  <div class="col-lg-6">
+    <a href="images/k2/k2-c07-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c07-field.png" id="c7"></a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-lg-6">
+    <a href="images/k2/k2-c08-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c08-field.png" id="c8"></a>
+  </div>
+  <div class="col-lg-6">
+    <a href="images/k2/k2-c09-field.png"><img class="img-responsive" style="padding:0.5em;" src="images/k2/k2-c09-field.png" id="c9"></a>
   </div>
 </div>
 
@@ -484,7 +493,6 @@ You can learn more about the installation and usage of these tools [on the softw
   </div>
 </div>
 
-
 <hr/>
 
 
@@ -499,7 +507,7 @@ These files specify the coordinates of the corners of each CCD channel
 in each campaign, along with the observing dates and module numbers.
 The JSON files also provide galactic coordinates.
 
-Campaigns 0 through 19:
+Campaigns 0 through 20:
 
 * [k2-footprint.json](https://github.com/KeplerGO/K2FootprintFiles/raw/master/json/k2-footprint.json)
 * [k2-footprint.csv](https://github.com/KeplerGO/K2FootprintFiles/raw/master/csv/k2-footprint.csv)

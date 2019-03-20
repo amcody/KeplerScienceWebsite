@@ -36,8 +36,7 @@ overview of their research during the first two days. Talks are 10 minutes each,
 how-to's and high-level science product creation overviews. We will also encourage participants to spend time 
 comparing technical approaches to K2 data, including photometry.
 
-<h4 style="font-weight: bold;">Tuesday, Jan 16th <br>
-BU College of Arts and Sciences building, room 211</h4>
+<h4 style="font-weight: bold;">Tuesday, Jan 16th</h4>
 
 <div class="row">
 <div class="col-sm-12 col-md-10">
@@ -54,12 +53,12 @@ BU College of Arts and Sciences building, room 211</h4>
         <b>Opening session</b><br/>
         <ul class="schedule">
             <li>
-                Welcome<br/>
+                <a href='talks/k2clusters-01-phil-muirhead.pdf'>Welcome</a> <br/>
                 <i>Phil Muirhead</i>
             </li>
             <li>
-                Mission update and workshop goals<br/>
-                <i>The K2 team</i>
+                <a href='talks/k2clusters-02-geert-barentsen-ann-marie-cody.pdf'>Mission update and workshop goals</a> <br/>
+                <i>Geert Barentsen, Ann Marie Cody</i>
             </li>
         </ul>
     </td>
@@ -67,26 +66,26 @@ BU College of Arts and Sciences building, room 211</h4>
   <tr>
     <th><b>10:30–11:45</b></th>
     <td>
-        <b>Science talks: Stellar rotation</b><br/>
+        <b>Science talks: Stellar rotation</b> <i>(Chair: Christina Hedges)</i><br/>
         <ul class="schedule">
             <li>
-                Rotation in field M dwarfs<br/>
+                <a href='talks/k2clusters-03-elisabeth-newton.pdf'>Rotation in field M dwarfs</a> <br/>
                 <i>Elisabeth Newton</i>                
             </li>
             <li>
-               Stellar Rotation in Clusters with K2<br/>
+               <a href='talks/k2clusters-04-luisa-rebull.pdf'>Stellar Rotation in Clusters with K2</a> <br/>
                 <i>Luisa Rebull</i>
             </li>
             <li>
-               Measuring the radii of low-mass active stars using K2<br/>
+               <a href='talks/k2clusters-05-rob-jeffries.pdf'>Measuring the radii of low-mass active stars using K2</a> <br/>
                 <i>Rob Jeffries</i>
             </li>
             <li>
-               Determining Reliable Rotation Periods for M67 from K2 Data<br/>
+               <a href='talks/k2clusters-06-rebecca-esselstein.pdf'>Determining Reliable Rotation Periods for M67 from K2 Data</a> <br/>
                 <i>Rebecca Esselstein</i>
             </li>
             <li>
-               Simply complexity: the missing ingredient for a complete spin-down model<br/>
+               <a href='talks/k2clusters-07-cecilia-garraffo.pdf'>Simply complexity: the missing ingredient for a complete spin-down model</a> <br/>
                 <i>Cecilia Garraffo</i>
             </li>
         </ul>
@@ -107,26 +106,26 @@ BU College of Arts and Sciences building, room 211</h4>
   <tr>
     <th><b>13:30–14:45</b></th>
     <td>
-        <b>Activity and flares</b><br/>
+        <b>Activity and flares</b> <i>(Chair: Michael Gully-Santiago)</i><br/>
         <ul class="schedule">
             <li>
-                Ultracool Dwarfs: Flares and Clouds<br/>
+                <a href='talks/k2clusters-08-john-gizis.pdf'>Ultracool Dwarfs: Flares and Clouds</a><br/>
                 <i>John Gizis</i>
             </li>
             <li>
-                Flares in K2 Clusters: In Search of the Flaring-Age Relation<br/>
+                <a href='talks/k2clusters-09-ekaterina-ilin.pdf'>Flares in K2 Clusters: In Search of the Flaring-Age Relation</a> <br/>
                 <i>Ekaterina Ilin</i>
             </li>
             <li>
-                Searching for the Origin of flares in M dwarfs<br/>
+                <a href='talks/k2clusters-10-lauren-doyle.pdf'>Searching for the Origin of flares in M dwarfs</a> <br/>
                 <i>Lauren Doyle</i>
             </li>
             <li>
-                Probing Activity and Livable Environments Affecting L-dwarf Exoplanets (PALE ALE)<br/>
+                <a href='talks/k2clusters-11-julie-skinner.pdf'>Probing Activity and Livable Environments Affecting L-dwarf Exoplanets (PALE ALE)</a> <br/>
                 <i>Julie Skinner</i>
             </li>
             <li>
-                Simultaneous Spectroscopic & K2 Observations of Praesepe<br/>
+                <a href='talks/k2clusters-12-marcel-agueros.pdf'>Simultaneous Spectroscopic &amp; K2 Observations of Praesepe</a> <br/>
                 <i>Marcel Agüeros</i>
             </li>
         </ul>
@@ -141,29 +140,29 @@ BU College of Arts and Sciences building, room 211</h4>
   <tr>
     <th><b>15:15–16:45</b></th>
     <td>
-        <b>Transiting planets</b><br/>
+        <b>Transiting planets</b> <i>(Chair: Ann Marie Cody)</i><br/>
         <ul class="schedule">
             <li>
-                The Zodiacal Exoplanets in Time Survey<br/>
+                <a href='talks/k2clusters-13-andrew-mann.pdf'>The Zodiacal Exoplanets in Time Survey</a> <br/>
                 <i>Andrew Mann</i>
             </li>
             <li>
-                Searching for Transiting Exoplanets in Open Cluster Environments<br/>
+                <a href='talks/k2clusters-14-melinda-soares-furtado.pdf'>Searching for Transiting Exoplanets in Open Cluster Environments</a> <br/>
                 <i>Melinda Soares-Furtado</i>
             </li>
             <li> 
-               Discovery of planets around nearby stars<br/>
+               <a href='talks/k2clusters-15-niraula-prajwal.pdf'>Discovery of planets around nearby stars</a> <br/>
                 <i>Prajwaul Nirala</i>
             </li>
             <li>
-                Looking for transiting warm Jupiters - win some, lose some<br/>
+                <a href='talks/k2clusters-16-avi-shporer.pdf'>Looking for transiting warm Jupiters - win some, lose some</a> <br/>
                 <i>Avi Shporer</i>
             </li>
             <li>
-                Planet Occurrence in the M67 Open Cluster<br/>
+                <a href='talks/k2clusters-17-andrew-vanderburg.pdf'>Planet Occurrence in the M67 Open Cluster</a> <br/>
                 <i>Andrew Vanderburg</i>
             <li>
-                Towards measuring temporal trends in planet occurrence<br/>
+                <a href='talks/k2clusters-18-trevor-david.pdf'>Towards measuring temporal trends in planet occurrence</a> <br/>
                 <i>Trevor David</i>
             </li>
         </ul>
@@ -181,8 +180,7 @@ BU College of Arts and Sciences building, room 211</h4>
 </div>
 
 
-<h4 style="font-weight: bold;">Wednesday, Jan 17th <br> 
-BU College of Arts and Sciences building, room 211</h4>
+<h4 style="font-weight: bold;">Wednesday, Jan 17th</h4>
 
 <div class="row">
 <div class="col-sm-12 col-md-10">
@@ -196,26 +194,26 @@ BU College of Arts and Sciences building, room 211</h4>
   <tr>
     <th><b>10:00-11:15</b></th>
     <td>
-        <b>Eclipsing binaries and companions</b><br/>
+        <b>Eclipsing binaries and companions</b> <i>(Chair: Julie Skinner)</i><br/>
         <ul class="schedule">
             <li>
-                The Mass-Radius Relation of Young Stars<br/>
+                <a href='talks/k2clusters-19-adam-kraus.pdf'>The Mass-Radius Relation of Young Stars</a> <br/>
                 <i>Adam Kraus</i>
             </li>
             <li>
-                K2 Observations of a M3.7+M5.0 EB with Total Secondary Eclipses<br/>
+                <a href='talks/k2clusters-20-joel-hartman.pdf'>K2 Observations of a M3.7+M5.0 EB with Total Secondary Eclipses</a> <br/>
                 <i>Joel Hartman</i>
             </li>
             <li>
-               The effect of companions on rotational evolution<br/>
+               <a href='talks/k2clusters-21-stephanie-douglas.pdf'>The effect of companions on rotational evolution</a> <br/>
                 <i>Stephanie Douglas</i>
             </li>
             <li>
-                Eclipsing Binaries and Cluster Ages<br/>
+               <a href='talks/k2clusters-22-eric-sandquist.pdf'>Eclipsing Binaries and Cluster Ages</a> <br/>
                 <i>Eric Sandquist</i>
             </li>
             <li>
-                Young planets, brown dwarfs and eclipsing binaries in Praesepe<br/>
+                <a href='talks/k2clusters-23-edward-gillen.pdf'>Young planets, brown dwarfs and eclipsing binaries in Praesepe</a> <br/>
                 <i>Ed Gillen</i>
             </li>
         </ul>
@@ -238,31 +236,29 @@ BU College of Arts and Sciences building, room 211</h4>
   <tr>
     <th><b>13:30–15:00</b></th>
     <td>
-        <b>Young Stellar Objects</b><br/>
+        <b>Young Stellar Objects</b> <i>(Chair: Geert Barentsen)</i><br/>
         <ul class="schedule">
             <li>            
-                Probing star-disk interactions on YSOs in Taurus by simultaneous K2 and ground based photometry<br/>
+                <a href='talks/k2clusters-24-zhen-guo.pdf'>Probing star-disk interactions on YSOs in Taurus by simultaneous K2 and ground based photometry</a> <br/>
                 <i>Zhen Guo</i>
             </li>
             <li>    
-                Spinning and Dipping: Observing the Young Star Ballet with KELT and K2<br/>
+                <a href='talks/k2clusters-25-joey-rodriguez.pdf'>Spinning and Dipping: Observing the Young Star Ballet with KELT and K2</a> <br/>
                 <i>Joey Rodriguez</i>
             </li>
             <li>    
-                Starspots on young stars with K2 and IGRINS<br/>
+                <a href='talks/k2clusters-26-michael-gully-santiago.pdf'>Starspots on young stars with K2 and IGRINS</a> <br/>
                 <i>Michael Gully-Santiago</i>
             </li>
             <li>    
-                Inference of Dipper Populations in K2 Using Machine Learning<br/>
+                <a href='talks/k2clusters-27-christina-hedges.pdf'>Inference of Dipper Populations in K2 Using Machine Learning</a> <br/>
                 <i>Christina Hedges</i>
             </li>
             <li>    
-                The Zoo of Young Star Variability as seen by K2<br/>
+                <a href='talks/k2clusters-28-ann-marie-cody.pdf'>The Zoo of Young Star Variability as seen by K2</a> <br/>
                 <i>Ann Marie Cody</i>
             </li>
             <li> 
-                A Glimpse of Star Formation in the Outer Galaxy: SMOG Field<br/>
-                <i>Elaine Winston</i>   
             </li>
         </ul>
     </td>
@@ -276,22 +272,22 @@ BU College of Arts and Sciences building, room 211</h4>
   <tr>
     <th><b>15:45–17:00</b></th>
     <td>
-        <b>Non-main-sequence stars and synergies with other missions</b><br/>
+        <b>Non-main-sequence stars and synergies with other missions</b> <i>(Chair: Phil Muirhead)</i><br/>
         <ul class="schedule">
             <li>
-                Beyond Blue Stragglers: K2 Observations Reveal Post-Mass-Transfer Binaries Hidden on the M67 Main Sequence<br/>
+                <a href='talks/k2clusters-30-emily-leiner.pdf'>Beyond Blue Stragglers: K2 Observations Reveal Post-Mass-Transfer Binaries Hidden on the M67 Main Sequence</a> <br/>
                 <i>Emily Leiner</i>
             </li>
             <li>
-                Age calibration from coeval white dwarfs in K2 and TESS<br/>
+                <a href='talks/k2clusters-31-jj-hermes.pdf'>Age calibration from coeval white dwarfs in K2 and TESS</a> <br/>
                 <i>JJ Hermes</i>
             </li>
             <li>
-                The TESS Open Cluster Survey<br/>
+                <a href='talks/k2clusters-32-soren-meibom.pdf'>The TESS Open Cluster Survey</a> <br/>
                 <i>Søren Meibom</i>
             </li>
             <li>
-                A PSF-based approach to K2 data - Variables and Exoplanet candidates within K2 cluster fields<br/>
+                <a href='talks/k2clusters-33-domenico-nardiello.pdf'>A PSF-based approach to K2 data - Variables and Exoplanet candidates within K2 cluster fields</a> <br/>
                 <i>Domenico Nardiello</i>
             </li>            
         </ul>
@@ -302,8 +298,7 @@ BU College of Arts and Sciences building, room 211</h4>
 </div>
 
 
-<h4 style="font-weight: bold;">Thursday, Jan 18th <br> 
-Terrace Lounge, George Sherman Union</h4>
+<h4 style="font-weight: bold;">Thursday, Jan 18th</h4>
 
 <p>Unconference Day</p>
 
@@ -311,7 +306,7 @@ Terrace Lounge, George Sherman Union</h4>
 <div class="col-sm-12 col-md-10">
 <table class="table table-striped table-hover">
   <tr>
-    <th style="min-width:8em;"><b>09:00–09:15</b></th>
+    <th style="min-width:8em;"><b>9:00–9:15</b></th>
     <td>
         <b>Coffee &amp; snacks</b>
     </td>
@@ -319,37 +314,37 @@ Terrace Lounge, George Sherman Union</h4>
   <tr>
     <th><b>9:15–9:30</b></th>
     <td>
-        <b>Conference summary & unconference plans</b><br/>
+        <b>Unconference overview</b>
     </td>
   </tr>
   <tr>
     <th><b>9:30-10:30</b></th>
     <td> 
-        <b>Unconference session 1</b><br/>
+        <b>Unconference session 1</b>
     </td>
   </tr>
   <tr>
     <th><b>10:30-11:30</b></th>
     <td>
-        <b>Unconference session 2</b><br/>
+        <b>Unconference session 2</b>
     </td>
   </tr>
   <tr>
     <th><b>11:30-12:30</b></th>
     <td>
-        <b>Unconference session 3</b><br/>
+        <b>Unconference session 3</b>
     </td>
   </tr>
   <tr>
     <th><b>12:30-13:00</b></th>
     <td>
-        <b>Wrap-up & unconference reports</b><br/>
+        <b>Wrap-up &amp; unconference reports</b>
     </td>
   </tr>
   <tr>
     <th><b>13:00-14:00</b></th>
     <td>
-        <b>Lunch</b><br/>
+        <b>Lunch</b>
     </td>
   </tr>
   <tr>
@@ -385,7 +380,7 @@ Look for signs directing you to the meeting.
 For lunch, we suggest the George Sherman Union, but you can also take a look at our <a href='http://www.bu.edu/iar/seminars/local-favorites/'>
 list of other nearby options.</a>
 
-<img class="img-responsive" style="max-width:80%;" src="../images/k2/BUworkshop_zoom.png" >
+<a href="/images/k2/BUworkshop_zoom.png"><img class="img-responsive" style="max-width:80%;" src="/images/k2/BUworkshop_zoom.png" ></a>
 
 On the third day, the Unconference will take place in the Terrace Lounge of the George Sherman Union (GSU). GSU is also our 
 suggested lunch site. It is located at 775 Commonwealth Ave. Right click on the above map and select 'view image' to see a larger 
@@ -421,16 +416,12 @@ Holiday Inn Boston-Brookline</a> (about 20 minutes' ride).
 * Jessie Dotson (K2 Project Scientist)
 
 
-### Participant registration list
-
-(Last update: Jan. 5, 2018)
+### Workshop participants
 
 * Marcel Agüeros (Columbia University)
 * Ruth Angus (Columbia University)
-* Nuralfin Anripa (State Islamic University of Maulana Malik Ibrahim)
 * Geert Barentsen (NASA Ames)
 * Phillip Cargile (Harvard CfA)
-* Giovanni Carraro (University of Padova)
 * Ann Marie Cody (NASA Ames)
 * Paul Dalba (Boston University)
 * Trevor David (JPL)
@@ -458,9 +449,7 @@ Holiday Inn Boston-Brookline</a> (about 20 minutes' ride).
 * Aurora Kesseli (Boston University)
 * Kathleen Kraemer (Boston College)
 * Adam Kraus (University of Texas Austin)
-* David Latham (Harvard CfA)
 * Emily Leiner (University of Wisconsin)
-* Fatima Mammadova (Istanbul University)
 * Andrew Mann (Columbia University)
 * Robert Mathieu (University of Wisconsin Madison)
 * Søren Meibom (Harvard CfA)
@@ -468,23 +457,17 @@ Holiday Inn Boston-Brookline</a> (about 20 minutes' ride).
 * Domenico Nardiello (University of Padova)
 * Jose-Dias do Nascimento (Harvard CfA)
 * Elisabeth Newton (MIT)
-* Srinitha Nimmakayala (Universidad Complutense de Madrid)
 * Prajwal Niraula (Wesleyan University)
 * Dawn Peterson	(Space Science Institute)
 * Luisa Rebull (IPAC/Caltech)
-* Alvaro Ribas (Boston University)
 * Joey Rodriguez (Harvard CfA)
-* Philip Rosenfield (Harvard CfA)
 * Sheila Sagear (Boston University)
 * Eric Sandquist (San Diego State University)
 * Brad Schaefer	(Louisiana State University)
-* Joshua Schlieder (NASA GSFC)
 * Avi Shporer (MIT)
 * Julie Skinner (Boston University)
 * Melinda Soares-Furtado (Princeton University)
-* Ali Taani (Al-Balqa Applied University)
 * Patrick Tamburo (Boston University)
-* Aashana Tripathi (University of Potsdam) 
 * Andrew Vanderburg (University of Texas)
 * Mark Veyette (Boston University)
 * Elaine Winston (Harvard CfA)
